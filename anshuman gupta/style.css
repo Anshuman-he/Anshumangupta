@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(red #00ccff);
+}
+
+.dibba{
+    height: 401px;
+    width: 300px;
+    box-sizing: border-box;
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 12px 8px 20px 3px rgb(255, 0, 0);
+    background-color: rgb(255, 174, 0);
+    transition: 0.5s;
+}
+
+.dibba:hover{
+    transform: translatey(-34px);
+    box-shadow: #f55229;
+}
+div{
+    display: inline-block;
+}
+body{
+    background-color: rgb(255, 251, 2);
+}
